@@ -1,4 +1,3 @@
-gwtp-eclipse-plugin-testing
-===========================
+#Testing Only
 
-Testing gwtp eclipse plugin
+[GWTP Eclipse Plugin Home](https://github.com/ArcBees/gwtp-eclipse-plugin)
